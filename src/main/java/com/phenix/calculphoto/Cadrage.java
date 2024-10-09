@@ -6,8 +6,14 @@ package com.phenix.calculphoto;
  */
 public class Cadrage {
 
+    /**
+     *
+     */
     public final static int PORTRAIT = 0;
 
+    /**
+     *
+     */
     public final static int PAYSAGE = 1;
 
     /**
@@ -31,6 +37,13 @@ public class Cadrage {
      */
     public double largeur;
 
+    /**
+     *
+     * @param nom
+     * @param format
+     * @param hauteur
+     * @param largeur
+     */
     public Cadrage(String nom, int format, double hauteur, double largeur) {
         this.nom = nom;
         this.format = format;

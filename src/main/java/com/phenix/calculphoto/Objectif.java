@@ -22,6 +22,12 @@ public class Objectif {
      */
     public double distance_min;
 
+    /**
+     *
+     * @param focale
+     * @param angle
+     * @param distance_min
+     */
     public Objectif(int focale, double angle, double distance_min) {
         this.focale = focale;
         this.angle = angle;

@@ -1,7 +1,5 @@
 package com.phenix.calculphoto;
 
-import java.lang.Math;
-
 /**
  *
  * @author <a href="mailto:edouard128@hotmail.com">Edouard Jeanjean</a>
